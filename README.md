@@ -39,7 +39,7 @@ I have in recent years, spent time developing my skillset in the field of machin
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://valentinaanthonio.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://valentinaanthonio/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
 
