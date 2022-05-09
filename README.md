@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I’m a Chartered accountant and a Data Scientist with years of experience working as an auditor, analyst, consultant, and in machine learning engineering. 
+I’m a Chartered Accountant and a Data Scientist with years of experience working as an auditor, analyst, consultant, and in machine learning engineering. 
 I have in recent years, spent time developing my skillset in the field of machine learning engineering. Hoping to make a meaningful impact through these skillsets.
 
   
